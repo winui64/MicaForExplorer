@@ -1,8 +1,4 @@
-> **Notice:** The Mica4U project has been archived. For alternative tools to apply Mica and Acrylic effects to Windows Explorer, please consider the following:
-> - [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica)
-> - [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-> - [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)
-> - [Windhawk](https://windhawk.net/)
+
 
 <p align="center"><img src="assets/Mica4U (Header).png" alt="Mica4U" width="100%"></p>
 <p align="center">
