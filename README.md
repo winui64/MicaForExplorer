@@ -1,13 +1,3 @@
-
-
-<p align="center"><img src="assets/Mica4U (Header).png" alt="Mica4U" width="100%"></p>
-<p align="center">
-  <a href="https://www.gnu.org/licenses/lgpl-3.0"><img src="https://img.shields.io/badge/License-LGPL_v3-blue.svg?style=flat-rounded" alt="License: LGPL v3"></a>
-  <a href="https://github.com/DRKCTRLDEV/Mica4U/releases"><img src="https://img.shields.io/github/v/release/DRKCTRLDEV/Mica4U.svg?style=flat-rounded" alt="GitHub release"></a>
-  <a href="https://github.com/DRKCTRLDEV/Mica4U/stars"><img src="https://img.shields.io/github/stars/DRKCTRLDEV/Mica4U.svg?style=flat-rounded" alt="Stars"></a>
-  <a href="https://github.com/DRKCTRLDEV/Mica4U/releases"><img src="https://img.shields.io/github/downloads/DRKCTRLDEV/Mica4U/total.svg?style=flat-rounded" alt="Downloads"></a>
-  <img src="https://img.shields.io/github/last-commit/DRKCTRLDEV/Mica4U?style=flat" alt="Last Commit">
-</p>
 <h3 align=center><u>Efficient & User-Oriented</u> software used to apply Mica, & Acrylic effects to Windows Explorer.</h3>
 <h2 align=center>Overview & Information</h2>
 
